@@ -1,0 +1,2 @@
+kernel/drivers/vibrator/common/sec_vibrator.ko
+kernel/drivers/vibrator/slsi/s2mu106/s2mu106_vibrator.ko

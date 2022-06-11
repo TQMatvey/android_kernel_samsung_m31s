@@ -1,0 +1,3 @@
+kernel/drivers/battery/charger/s2mu106_pmeter.ko
+kernel/drivers/battery/charger/s2mu106_charger.ko
+kernel/drivers/battery/charger/sm5440_charger.ko

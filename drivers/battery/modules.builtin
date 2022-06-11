@@ -1,0 +1,10 @@
+kernel/drivers/battery/charger/s2mu106_pmeter.ko
+kernel/drivers/battery/charger/s2mu106_charger.ko
+kernel/drivers/battery/charger/sm5440_charger.ko
+kernel/drivers/battery/common/sec_battery.ko
+kernel/drivers/battery/common/sec_battery_vote.ko
+kernel/drivers/battery/common/sec_battery_thermal.ko
+kernel/drivers/battery/common/sec_battery_sysfs.ko
+kernel/drivers/battery/common/sec_battery_dt.ko
+kernel/drivers/battery/common/sec_battery_ttf.ko
+kernel/drivers/battery/fuelgauge/s2mu106_fuelgauge.ko
