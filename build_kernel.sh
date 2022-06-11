@@ -9,6 +9,7 @@ export ANDROID_MAJOR_VERSION=s
 export CROSS_COMPILE=toolchains/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 export CC=toolchains/clang-4639204/bin/clang
 export CLANG_TRIPLE=toolchains/clang-4639204/bin/aarch64-linux-gnu-
+export clang_triple=toolchains/clang-4639204/bin/aarch64-linux-gnu-
 export ARCH=arm64
 KERNEL_MAKE_ENV="LOCALVERSION=-TQMatvey"
 
@@ -19,4 +20,4 @@ KERNEL_MAKE_ENV="LOCALVERSION=-TQMatvey"
 #export PLATFORM_VERSION=12
 
 make exynos9610-m31snsxx_defconfig
-make -j$(nproc)
+make -j1

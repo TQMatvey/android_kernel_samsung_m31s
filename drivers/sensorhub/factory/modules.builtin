@@ -1,8 +1,0 @@
-kernel/drivers/sensorhub/factory/accelometer_sensor.ko
-kernel/drivers/sensorhub/factory/gyroscope_sensor.ko
-kernel/drivers/sensorhub/factory/magnetic_sensor.ko
-kernel/drivers/sensorhub/factory/light_sensor.ko
-kernel/drivers/sensorhub/factory/Accelometer/accel_icm42605m.ko
-kernel/drivers/sensorhub/factory/Gyroscope/gyro_icm42605m.ko
-kernel/drivers/sensorhub/factory/Light/light_stk3x6x.ko
-kernel/drivers/sensorhub/factory/Magnetic/magnetic_mmc5603.ko

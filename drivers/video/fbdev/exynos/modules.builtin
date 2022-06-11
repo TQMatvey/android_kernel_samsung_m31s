@@ -1,4 +1,0 @@
-kernel/drivers/video/fbdev/exynos/dpu20/panels/dpui.ko
-kernel/drivers/video/fbdev/exynos/dpu20/panels/mdnie.ko
-kernel/drivers/video/fbdev/exynos/dpu20/panels/ea8076_m31s_lcd_ctrl.ko
-kernel/drivers/video/fbdev/exynos/dpu20/panels/timenval.ko
